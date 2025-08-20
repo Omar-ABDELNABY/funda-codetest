@@ -1,0 +1,16 @@
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/bin/Debug/net8.0/Adapters.ListingApiClient.deps.json
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/bin/Debug/net8.0/Adapters.ListingApiClient.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/bin/Debug/net8.0/Adapters.ListingApiClient.pdb
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/bin/Debug/net8.0/Domain.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/bin/Debug/net8.0/Domain.pdb
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.csproj.AssemblyReference.cache
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.AssemblyInfoInputs.cache
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.AssemblyInfo.cs
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.csproj.CoreCompileInputs.cache
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.sourcelink.json
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.B875A1BE.Up2Date
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/refint/Adapters.ListingApiClient.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/Adapters.ListingApiClient.pdb
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Adapters/Adapters.ListingApiClient/obj/Debug/net8.0/ref/Adapters.ListingApiClient.dll

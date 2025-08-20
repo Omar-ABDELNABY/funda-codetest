@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42aa94ce_002Db4c0_002D43b8_002Daece_002De1c2c59f9acb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenValidSearchQuery_WhenGetListings_ThenReturnsListingsResponse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::0C5D13D9-D31C-49BC-AC3C-576BAB385307::net8.0::Adapters.ListingApiClient.Tests.Integration.Clients.ListingApiClientTests.GivenValidSearchQuery_WhenGetListings_ThenReturnsListingsResponse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::0C5D13D9-D31C-49BC-AC3C-576BAB385307::net8.0::Adapters.ListingApiClient.Tests.Integration.DelegatingHandlers.ThrottlingHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::E3050314-AD13-46F8-AAFF-22FCA874BEF9::net8.0::Domain.Tests.Unit.UseCases.GetBrokersWithMostListingsUseCaseTests.WhenGettingBrokersWithMostListingsInAmsterdam_CallsThePortWithCorrespondingSearchQuery&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=98807b81_002D34d9_002D4512_002Dabce_002D030929c2d91d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetBrokersWithMostListingsUseCaseTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

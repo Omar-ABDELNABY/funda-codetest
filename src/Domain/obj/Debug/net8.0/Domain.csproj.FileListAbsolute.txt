@@ -1,0 +1,13 @@
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/bin/Debug/net8.0/Domain.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache

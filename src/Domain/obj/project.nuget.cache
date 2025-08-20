@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWco9oDDwF8bqXTBGpM/72wJFlg7OjdfZoQ4wdsIrHVWLo/8e0tgnIqZKwescNSSgt9hDVIdDcC7tmYQce2Wxw==",
+  "success": true,
+  "projectFilePath": "/Users/o.ibrahim/Documents/GZ/My Repos/funda-codetest/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/o.ibrahim/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/o.ibrahim/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
